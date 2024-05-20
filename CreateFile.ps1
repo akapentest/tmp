@@ -1,0 +1,1 @@
+New-Item "$($env:UserProfile)\Temp\evil.txt" -ItemType File
